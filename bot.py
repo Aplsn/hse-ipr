@@ -1,7 +1,6 @@
 import telebot
 import config
 import random
-import asyncio
 
 from telebot import types
 
